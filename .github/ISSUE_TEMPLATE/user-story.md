@@ -4,7 +4,7 @@ about: Шаблон для User Story
 title: ''
 labels: ТРПО 
 
-labels: User Story
+
 assignees: Daria-Vinogradova
 
 ---
